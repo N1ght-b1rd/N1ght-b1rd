@@ -10,6 +10,7 @@
 
 <hr>
 
+ <pre style="font-size: 5px; line-height: 1.1;">
      *                                                                                              
       +                                         .                                                   
        *%                                   @    @*                                                 
@@ -62,6 +63,4 @@
                                                                                                     
                                                                                                     
                                                                                                     
-                                                                                                    
-                                                                                                    
-                                                                                                    
+ </pre>                                                                                                    
