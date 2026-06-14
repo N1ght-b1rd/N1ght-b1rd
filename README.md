@@ -10,7 +10,7 @@
 
 <hr>
 
-<pre style="font-size: 3px; line-height: 1.1;">
+<pre style="font-size: 3px; line-height: 1.1; background: #ffffff; color: #000000;">
      *                                                                                              
       +                                         .                                                   
        *%                                   @    @*                                                 
